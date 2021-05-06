@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Weezy-95
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About me
+Hello, I'm Kai aka. Weezy 👋
 
-<!---
-Weezy-95/Weezy-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Trainee Developer - Since March 2021
+
+# Milestones
+March 2021 - learning development in JS
+July 2021 - trainee dev
+
+# My Language 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weezy-95&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+# Statistic
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weezy-95&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
