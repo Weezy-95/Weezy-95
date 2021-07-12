@@ -1,7 +1,7 @@
 # About me
 Hello, I'm Kai aka. Weezy 👋
 
-Trainee Developer - Since March 2021
+Trainee Developer - Since January 2021
 
 # Milestones
 January 2021 - JS/TS
