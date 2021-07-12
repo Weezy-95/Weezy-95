@@ -5,7 +5,7 @@ Aspering blockchain developer
 🏡| [Personal website](https://weezy-95.dev/)
 
 # Milestones
-January 2021 - JS/TS
+January 2021 - JS/TS <br>
 July 2021 - trainee dev
 
 # My Language 
