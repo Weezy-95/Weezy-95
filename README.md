@@ -1,7 +1,8 @@
 # About me
-Hello, I'm Kai aka. Weezy 👋
+German | Male | 26 yo.
+Aspering blockchain developer
 
-Trainee Developer - Since January 2021
+🏡| [Personal website](https://weezy-95.dev/)
 
 # Milestones
 January 2021 - JS/TS
