@@ -1,6 +1,6 @@
 # About me
 German | Male | 26 yo.
-Aspering blockchain developer
+Aspiring blockchain developer
 
 🏡| [Personal website](https://weezy-95.dev/)
 
