@@ -1,12 +1,8 @@
 # About me
-German | Male | 26 yo.
+German | Male | 27 yo.
 
 
 🏡| [Personal website](https://weezy-95.dev/)
-
-# Milestones
-January 2021 - JS/TS <br>
-July 2021 - trainee dev
 
 # My Language 
 <h3 align="left">Languages and Tools:</h3>
