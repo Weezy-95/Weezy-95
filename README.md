@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Weezy - Kai</h1>
-<h3 align="center">German | Male | 28 yo. | Software-Engineer since 01.07.2021 | Hobby Developer since 2020</h3>
+<h3 align="center">German | Male | 28 yo. | Software-Engineer since 01.07.2021 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weezy-95&label=Profile%20views&color=0e75b6&style=flat" alt="weezy-95" /> </p>
 
